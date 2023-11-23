@@ -1,1 +1,24 @@
+.front_page {
+    
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.header{
+    text-align: center;
+    font-size: larger;
+    color: rgb(163, 172, 181);
+}
 
+.card {
+    
+    width: 370px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
