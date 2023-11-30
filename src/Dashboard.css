@@ -19,6 +19,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-   
-
 }
+
+.input_text input[type="text"] {
+    color: black;
+     text-align: center;
+  }
+  
+
+  .input_text input::placeholder {
+    color: #999;
+      text-align: center;
+  }
