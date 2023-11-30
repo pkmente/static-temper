@@ -50,6 +50,7 @@ const Dashboard = () => {
                             type="text"
                             className="rainbow-p-around_medium"
                             style={inputStyles}
+                             disabled
                         />
                         <Input
                             label="Humidity"
@@ -58,6 +59,7 @@ const Dashboard = () => {
                             type="text"
                             className="rainbow-p-around_medium"
                             style={inputStyles}
+                            disabled
                         />
                         <Input
                             label="voltage"
@@ -66,6 +68,7 @@ const Dashboard = () => {
                             type="text"
                             className="rainbow-p-around_medium"
                             style={inputStyles}
+                             disabled
                         />
                         <Input
                             label="current"
@@ -74,6 +77,7 @@ const Dashboard = () => {
                             type="text"
                             className="rainbow-p-around_medium"
                             style={inputStyles}
+                             disabled
                         />
                     </div>
                 </Card>
